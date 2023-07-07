@@ -10,3 +10,4 @@ I've been using this method for years, so it might be worth sharing, as new revi
 
 * TACL (Transactions of the ACL), for 'empirical medhods' papers: [tacl-empirical-methods.md](tacl-empirical-methods.md)
 * Computational Linguistics: [computational-linguistics.md](computational-linguistics.md)
+* ACL Rolling Review: [acl-rolling-review.md](acl-rolling-review.md)
