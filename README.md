@@ -13,3 +13,4 @@ I've been using this method for years, so it might be worth sharing, as new revi
   * 'theoretical research' papers: [tacl-theoretical-research.md](tacl-theoretical-research.md)
 * Computational Linguistics: [computational-linguistics.md](computational-linguistics.md)
 * ACL Rolling Review: [acl-rolling-review.md](acl-rolling-review.md)
+* Natural Legal Language Processing workshop [nllp-ws.md](nllp-ws.md)
