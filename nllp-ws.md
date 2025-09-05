@@ -1,6 +1,6 @@
 # Natural Legal Language Processing workshop
 
-(October 2023)
+(September 2025)
 
 ## Contributions
 
@@ -45,6 +45,7 @@ Text field
 
 Should the paper be accepted or rejected?
 
+- [ ] 6 = Strong Accept
 - [ ] 5 = Accept
 - [ ] 4 = Weak Accept
 - [ ] 3 = Weak Reject
