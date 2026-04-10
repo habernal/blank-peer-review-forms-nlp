@@ -18,6 +18,7 @@ I've been using this method for years, so it might be worth sharing, as new revi
   * 'survey' papers: [tacl-survey.md](tacl-survey.md)
 * Computational Linguistics: [computational-linguistics.md](computational-linguistics.md)
 * ACL Rolling Review: [acl-rolling-review.md](acl-rolling-review.md)
+* ACL Student Workshop direct submission [acl-student-workshop.md](acl-student-workshop.md)
 * Natural Legal Language Processing workshop [nllp-ws.md](nllp-ws.md)
 * Language Resources and Evaluation journal [lre-journal.md](lre-journal.md)
 * StarSEM (*SEM; Joint Conference on Lexical and Computational Semantics) [starsem.md](starsem.md)
